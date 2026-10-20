@@ -1,0 +1,30 @@
+{
+  "cpu_metrics.csv": {
+    "ultimo_id": 29524,
+    "atualizado_em": "2026-09-23T10:30:14"
+  },
+  "activity_metrics.csv": {
+    "ultimo_id": 29523,
+    "atualizado_em": "2026-09-23T10:30:14"
+  },
+  "memory_metrics.csv": {
+    "ultimo_id": 295208,
+    "atualizado_em": "2026-09-23T10:30:14"
+  },
+  "wait_stats.csv": {
+    "ultimo_id": 162227,
+    "atualizado_em": "2026-09-23T10:30:15"
+  },
+  "io_stats.csv": {
+    "ultimo_id": 944896,
+    "atualizado_em": "2026-09-23T10:30:40"
+  },
+  "top_queries.csv": {
+    "ultimo_id": 461538,
+    "atualizado_em": "2026-09-23T10:30:44"
+  },
+  "disk_metrics.csv": {
+    "ultimo_id": 3940,
+    "atualizado_em": "2026-09-23T10:30:44"
+  }
+}
