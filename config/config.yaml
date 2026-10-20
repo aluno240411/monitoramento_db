@@ -1,0 +1,15 @@
+servers:
+- alias: LAB-SQL
+  auth_type: Windows
+  database: DB_Observability
+  driver: ODBC Driver 17 for SQL Server
+  metricas_ml:
+  - cpu
+  - memoria
+  - io
+  - atividade_sql
+  password: ''
+  port: 1433
+  server: LAB-SQL
+  user: ''
+

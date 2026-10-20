@@ -1,0 +1,5 @@
+Braco,Injecoes,Detectadas,LatenciaMedia,LatenciaMediana,LatenciaMax
+Camada 1 (limiar aviso),98,30,1.27,1.0,4.0
+Camada 1 (limiar critico),98,15,1.4,1.0,4.0
+Camada 2 (IF contamination=0.05),98,41,0.22,0.0,1.0
+Uniao (C1 aviso + C2),98,42,0.24,0.0,1.0

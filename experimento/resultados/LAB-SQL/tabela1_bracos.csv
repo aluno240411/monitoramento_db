@@ -1,0 +1,5 @@
+,VP,FP,FN,VN,Precisao,Revocacao,F1,TaxaFalsoPositivo
+Camada 1 (limiar aviso),83.0,65.0,157.0,6146.0,0.5608,0.3458,0.4278,0.0105
+Camada 1 (limiar critico),40.0,30.0,200.0,6181.0,0.5714,0.1667,0.2581,0.0048
+Camada 2 (IF contamination=0.05),153.0,170.0,87.0,6041.0,0.4737,0.6375,0.5435,0.0274
+Uniao (C1 aviso + C2),167.0,196.0,73.0,6015.0,0.4601,0.6958,0.5539,0.0316

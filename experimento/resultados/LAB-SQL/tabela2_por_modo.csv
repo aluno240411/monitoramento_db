@@ -1,0 +1,17 @@
+Braco,ModoFalha,MinutosAnomalos,MinutosDetectados,Revocacao
+Camada 1 (limiar aviso),BLOQUEIO,64,39,0.6094
+Camada 1 (limiar aviso),CPU,62,9,0.1452
+Camada 1 (limiar aviso),IO,59,31,0.5254
+Camada 1 (limiar aviso),MEMORIA,55,4,0.0727
+Camada 1 (limiar critico),BLOQUEIO,64,14,0.2188
+Camada 1 (limiar critico),CPU,62,0,0.0
+Camada 1 (limiar critico),IO,59,22,0.3729
+Camada 1 (limiar critico),MEMORIA,55,4,0.0727
+Camada 2 (IF contamination=0.05),BLOQUEIO,64,36,0.5625
+Camada 2 (IF contamination=0.05),CPU,62,45,0.7258
+Camada 2 (IF contamination=0.05),IO,59,57,0.9661
+Camada 2 (IF contamination=0.05),MEMORIA,55,15,0.2727
+Uniao (C1 aviso + C2),BLOQUEIO,64,50,0.7812
+Uniao (C1 aviso + C2),CPU,62,45,0.7258
+Uniao (C1 aviso + C2),IO,59,57,0.9661
+Uniao (C1 aviso + C2),MEMORIA,55,15,0.2727
